@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header, footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+}
+
+main {
+    padding: 20px;
+}
+
+article {
+    margin-bottom: 40px;
+    margin-top: 0px;
+    margin-right: 100px; 
+    margin-left: 100px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.comments {
+    margin-top: 20px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input {
+    width: 35%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    border: 3px solid #555;
+}
+
+.submisionButton {
+    background-color: #e7e7e7; color: black;
+    border-radius: 8px;
+    padding: 10px 24px;
+    width: 25%;
+}
+
+.titre {
+    font-size: 2.5em;
+}
